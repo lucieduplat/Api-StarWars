@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+}
+
+.titre {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+.wars {
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+}
